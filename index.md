@@ -5,7 +5,7 @@ description: "Amateur Radio: AE9RB"
 tagline: I make things.
 ---
 <style>
-.right { float: right; margin-left: 7px}
+.right { float: right; clear: right; margin-left: 7px}
 h1 { clear: right; width: 100%;}
 #banner .tagline { padding: 10px; font-size: 16px; max-width: 600px;  margin: 6px auto; }
 </style>
@@ -16,9 +16,12 @@ h1 { clear: right; width: 100%;}
 I wanted to get good at Rust so I wrote a compiler for an entirely different language. The lingua franca of 70s and 80s personal computers, BASIC programs were widely distributed in books and magazines for users to type in. What started as a learning exercise turned into a preservation project.
 
 # [Peaberry SDR](peaberry)
-![Screenshot](../assets/peaberryV2.jpg){: .right}
+![Screenshot](../assets/peaberry/peaberryCW.jpg){: .right}
+![Screenshot](../assets/peaberry/peaberryV2.jpg){: .right}
 
-This is ham radio transceiver I sold for a few years. Reviews live on in the [November 2013 issue of QST](http://www.arrl.org/files/file/QST/This%20Month%20in%20QST/November%202013/TOC.pdf) pg 57-59 and on [eHam](https://www.eham.net/reviews/view-product?id=10690)
+This is a ham radio transceiver I sold for a few years. Reviews live on in the
+[November 2013 issue of QST](http://www.arrl.org/files/file/QST/This%20Month%20in%20QST/November%202013/TOC.pdf) pg 57-59
+and on [eHam](https://www.eham.net/reviews/view-product?id=10690)
 [(alt)](https://www.eham.net/reviews/view-product?id=11577).
 
 It uses a quadrature mixer to sample I/Q with a Sigma-Delta ADC/DAC and

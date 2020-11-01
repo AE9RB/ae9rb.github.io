@@ -5,9 +5,7 @@ permalink: /peaberry/
 ---
 The Peaberry SDR is no longer available but the manuals and downloads are archived here.
 
-#TODO actually do the archive
-
-# Peaberry SDR V2 $149.00
+## Peaberry SDR V2 $149.00
 
 The Peaberry SDR V2 is a Software Defined Radio transceiver for the HF amateur bands (FCC part 97). It's available as a kit that you build yourself. An illustrated manual covers assembly, testing, and installation of HDSDR. Because the radio is software defined, the modes you can operate are determined by the applications running on your computer. There is software available for every known mode. You can even design your own modes if you have the expertise.
 
@@ -22,7 +20,15 @@ Build your Peaberry SDR V2 for the 160/80/75m, 80/75/60/40m, 60/40/30/20m, 30/20
  - Open Source firmware.
  - USB bootloader.
 
-# Peaberry SDR V1 Kit $149.00
+ Downloads:
+  - [Schematic](../assets/peaberry/schematicV2.pdf)
+  - [Full manual for building the kit](../assets/peaberry/Peaberry V2 Full.pdf)
+  - [Short manual for installing software only](../assets/peaberry/Peaberry V2 Short.pdf)
+  - [Acrylic case assembly](../assets/peaberry/Acrylic Case Assembly.pdf)
+  - [Windows driver. Install from device manager.](../assets/peaberry/Windows-USB-Driver-1.2.6.0.zip)
+  - [PSoC Firmware 2015MAR01](../assets/peaberry/2015MAR01peaberryV2.zip)
+
+## Peaberry SDR V1 Kit $149.00
 
 An HF transceiver kit for Software Defined Radio. The Peaberry SDR is the first and only do-it-yourself transceiver that doesn't require adding sound cards to your computer.
 
@@ -35,9 +41,18 @@ You choose to build it for the 160m, 80m/40m, 40m/30m/20m or 30m/20m/17m bands. 
  - Softrock control interface.
  - Open Source firmware.
 
-# Image Archive
+  Downloads:
+  - [Schematic](../assets/peaberry/schematicV1.pdf)
+  - [Assembly manual](../assets/peaberry/ConstructionV1.pdf)
+  - [Windows driver. Install from device manager.](../assets/peaberry/Windows-USB-Driver-1.2.5.0.zip)
+  - [Patch for Windows WSPR 2.11beta. Replace existing file. Use rig 2509SoftRock.](../assets/peaberry/hamlib-kit.dll.zip)
+  - [PSoC Firmware 19JAN2013](../assets/peaberry/peaberry19JAN2013.zip)
 
-![Screenshot](../assets/peaberryV2_LRG.jpg)
-![Screenshot](../assets/peaberrycomplete_LRG.jpg)
-![Screenshot](../assets/pb_acrylic_3030_LRG.jpg)
-![Screenshot](../assets/pb60403020_LRG.jpg)
+
+## Image Archive
+
+![Screenshot](../assets/peaberry/peaberryV2_LRG.jpg)
+![Screenshot](../assets/peaberry/peaberrycomplete_LRG.jpg)
+![Screenshot](../assets/peaberry/pb_acrylic_3030_LRG.jpg)
+![Screenshot](../assets/peaberry/pb60403020_LRG.jpg)
+![Screenshot](../assets/peaberry/peaberryCW_LRG.png)
