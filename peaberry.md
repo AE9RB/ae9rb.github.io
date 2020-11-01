@@ -21,7 +21,7 @@ Build your Peaberry SDR V2 for the 160/80/75m, 80/75/60/40m, 60/40/30/20m, 30/20
  - USB bootloader.
 
  Downloads:
-  - [Schematic](../assets/peaberry/schematicV2.pdf)
+  - [Schematic](../assets/peaberry/SchematicV2.pdf)
   - [Full manual for building the kit](../assets/peaberry/Peaberry V2 Full.pdf)
   - [Short manual for installing software only](../assets/peaberry/Peaberry V2 Short.pdf)
   - [Acrylic case assembly](../assets/peaberry/Acrylic Case Assembly.pdf)
@@ -42,7 +42,7 @@ You choose to build it for the 160m, 80m/40m, 40m/30m/20m or 30m/20m/17m bands. 
  - Open Source firmware.
 
   Downloads:
-  - [Schematic](../assets/peaberry/schematicV1.pdf)
+  - [Schematic](../assets/peaberry/SchematicV1.pdf)
   - [Assembly manual](../assets/peaberry/ConstructionV1.pdf)
   - [Windows driver. Install from device manager.](../assets/peaberry/Windows-USB-Driver-1.2.5.0.zip)
   - [Patch for Windows WSPR 2.11beta. Replace existing file. Use rig 2509SoftRock.](../assets/peaberry/hamlib-kit.dll.zip)
