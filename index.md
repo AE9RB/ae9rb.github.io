@@ -12,6 +12,7 @@ h1 { clear: right; width: 100%;}
 
 
 # [64K BASIC](https://www.basic-lang.org/)
+![Screenshot](../assets/basic1701.png){: .right}
 
 I wanted to get good at Rust so I wrote a compiler for an entirely different language. The lingua franca of 70s and 80s personal computers, BASIC programs were widely distributed in books and magazines for users to type in. What started as a learning exercise turned into a preservation project.
 
@@ -19,7 +20,7 @@ I wanted to get good at Rust so I wrote a compiler for an entirely different lan
 ![Screenshot](../assets/peaberry/peaberryCW.jpg){: .right}
 ![Screenshot](../assets/peaberry/peaberryV2.jpg){: .right}
 
-This is a ham radio transceiver I sold for a few years. Reviews live on in the
+This is a ham radio transceiver I sold for a few years. Reviews are in the
 [November 2013 issue of QST](http://www.arrl.org/files/file/QST/This%20Month%20in%20QST/November%202013/TOC.pdf) pg 57-59
 and on [eHam](https://www.eham.net/reviews/view-product?id=10690)
 [(alt)](https://www.eham.net/reviews/view-product?id=11577).

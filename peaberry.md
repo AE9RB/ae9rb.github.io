@@ -3,6 +3,7 @@ layout: page
 title: Peaberry SDR
 permalink: /peaberry/
 ---
+
 The Peaberry SDR is no longer available but the manuals and downloads are archived here.
 
 ## Peaberry SDR V2 $149.00
@@ -56,3 +57,4 @@ You choose to build it for the 160m, 80m/40m, 40m/30m/20m or 30m/20m/17m bands. 
 ![Screenshot](../assets/peaberry/pb_acrylic_3030_LRG.jpg)
 ![Screenshot](../assets/peaberry/pb60403020_LRG.jpg)
 ![Screenshot](../assets/peaberry/peaberryCW_LRG.png)
+![AE9RB](../assets/peaberry/logo.png)
