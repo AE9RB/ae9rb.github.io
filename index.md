@@ -20,12 +20,12 @@ The lingua franca of 70s and 80s personal computers. BASIC programs were widely 
 ![Screenshot](../assets/peaberry/peaberryV2.jpg){: .right}
 
 This radio uses [skywave](https://en.wikipedia.org/wiki/Skywave)
-propogation to make 7000km contacts across the Pacific Ocean with
+propogation to make 7000 km contacts across the Pacific Ocean with
 only one watt of transmitted power. Imagine an LED or a candle
 blinking on your roof in the United States and someone in
 Australia decoding the message.
 
-It uses a quadrature mixer to sample I/Q with a Sigma-Delta ADC/DAC
+It uses a quadrature mixer to sample I/Q with a Delta-Sigma ADC/DAC
 and connects as a USB device. The radio has its own
 [PC and Mac software](https://github.com/AE9RB/peaberry-cw)
 written in C++. The Cypress PSoC was programmed in
