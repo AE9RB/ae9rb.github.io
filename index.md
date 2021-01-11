@@ -35,8 +35,6 @@ I sold this as a kit for a few years. Reviews are in the
 [November 2013 issue of QST](http://www.arrl.org/files/file/QST/This%20Month%20in%20QST/November%202013/TOC.pdf) pg 57-59
 and on [eHam](https://www.eham.net/reviews/view-product?id=10690)
 [(alt)](https://www.eham.net/reviews/view-product?id=11577).
-The forums can be read at the
-[Internet Archive](https://web.archive.org/web/20200204160704/http://ae9rb.com:80/forum/).
 
 # [SwiftGL](https://swiftgl.github.io/)
 ![Screenshot](assets/swiftgl.png){: .right}
